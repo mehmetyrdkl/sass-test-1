@@ -1,0 +1,9 @@
+@use "variables";
+
+section {
+  background-color: variables.$color-primary;
+}
+
+aside {
+  background-color: variables.$color-secondary;
+}
